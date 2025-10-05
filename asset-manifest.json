@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Parkmate-ui/static/css/main.dfcbd551.css",
+    "main.js": "/Parkmate-ui/static/js/main.e5b12dae.js",
+    "static/js/453.9d5a3360.chunk.js": "/Parkmate-ui/static/js/453.9d5a3360.chunk.js",
+    "index.html": "/Parkmate-ui/index.html",
+    "main.dfcbd551.css.map": "/Parkmate-ui/static/css/main.dfcbd551.css.map",
+    "main.e5b12dae.js.map": "/Parkmate-ui/static/js/main.e5b12dae.js.map",
+    "453.9d5a3360.chunk.js.map": "/Parkmate-ui/static/js/453.9d5a3360.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfcbd551.css",
+    "static/js/main.e5b12dae.js"
+  ]
+}
